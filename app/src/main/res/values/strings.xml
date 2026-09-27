@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">zad5</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Hasło</string>
+    <string name="remember_me">Zapamiętaj mnie</string>
+    <string name="btn_login">Zaloguj</string>
+    <string name="forgot_password">Nie pamiętam hasła</string>
+    <string name="desc_logo">Logo aplikacji</string>
+</resources>
